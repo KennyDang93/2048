@@ -1,0 +1,1 @@
+Hello there, my bug is seems really random to me. I can play my game normally it will move and merge tiles seemingly perfectly however it errors at a random time after playing for a bit.. it does double merging correcty so its not that either.
